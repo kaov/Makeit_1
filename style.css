@@ -1,0 +1,147 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin: 0 auto;
+    width: 1500px;
+    
+}
+
+.header {
+    width: 1500px;
+    height: 700px;
+    background: url(images/mask.png);;
+}
+
+.header_top {
+    height: 135px;
+    overflow: hidden;
+}
+
+.logo {
+    height: 111px;
+    width: 125px;
+    background: url(images/logo.png);
+    margin-top: 24px;
+    margin-left: 234px;
+    float: left;
+}
+
+.soc_iks {
+    width: 110;
+    margin-top: 50px;
+    margin-left: 1151px;
+    
+}
+
+.soc_iks>li {
+    width: 16px;
+    height: 16px;
+    border: ;1px solid #000000;
+    display: inline-block;
+    list-style-type: none;
+    float: ;
+}
+
+.fb {
+    background: url(images/facebook-icon.png);
+    background-repeat: no-repeat;
+}
+
+.twt {
+    background: url(images/twitter-icon.png);
+}
+
+.yt {
+    background: url(images/youtube-icon.png);
+}
+
+.pin {
+    background: url(images/pinterest-icon.png);
+}
+
+.inst {
+    background: url(images/insta-icon.png);
+}
+
+.welkome {
+    width: 270px;
+    height: 300px;
+    background-color: #fff51f;
+    margin-left: 165px;
+    margin-top: 201px;
+    float: left;
+}
+
+.WTS {
+    width: 199px;
+    height: 52px;
+    margin-top: 82px;
+    margin-left: 25px;
+    border: 1px solid #000000;
+    
+}
+
+.wel_txt {
+    width: 218px;
+    height: 60px;
+    margin-top: 24px;
+    margin-left: 22px;
+    border: 1px solid #000000;
+}
+
+.fun {
+    width: 313px;
+    height: 169px;
+    margin-top: 108px;
+    margin-left: 913px;
+    border: 1px solid #000000;
+    
+}
+
+.buy_but {
+    width: 124px;
+    height: 49px;
+    margin-top: 62px;
+    margin-left: 916px;
+    background-color: #fff51f;
+}
+
+.buy_txt {
+    width: 66px;
+    height: 10px;
+    margin-top: 20px;
+    margin-left: 28px;
+    border: 1px solid #000000;
+}
+
+.menu {
+    width: 270px;
+    height: 475px;
+    margin-left: 165px;
+    margin-top: -19px;
+    float: left;
+    background-color: #26d2fc;
+    
+}
+
+.menu>li {
+    
+    list-style-type: none;
+}
+
+.menu>li>a {
+    text-decoration: none;
+    display: block;
+    padding-left: 40px;
+    font: 900 14px / 36px Roboto;
+}
+
+.menu>li>a:hover {
+    color: #ffffff;
+    font: 900 14px / 36px Roboto;
+    background: #000000;
+}
+
